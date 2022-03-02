@@ -47,3 +47,8 @@
 	path = wecodebolivia/show_hide_menu_multi_company_app
 	url = git@github.com:wecodebolivia/show_hide_menu_multi_company_app.git
 	branch = 15.0.3.0
+
+[submodule "wecodebolivia/clean_data"]
+	path = wecodebolivia/clean_data
+	url = git@github.com:wecodebolivia/clean_data.git
+	branch = 15.0.1.0.0
